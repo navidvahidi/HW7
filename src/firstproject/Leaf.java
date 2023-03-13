@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Leaf {
+package firstproject;
+
+public class Leaf implements Turner {
+    @Override
+    public void turn() {
+
+    }
 }

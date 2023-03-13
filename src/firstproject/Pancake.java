@@ -1,2 +1,8 @@
-package firstproject;public class Pancake {
+package firstproject;
+
+public class Pancake implements Turner{
+    @Override
+    public void turn() {
+
+    }
 }
