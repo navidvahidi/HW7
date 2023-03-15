@@ -8,6 +8,6 @@ public class NonMetalElement extends Element{
 
     @Override
     public void describeElement() {
-
+        System.out.println("Symbol :" + getSymbol() + "   Atomic Number :" + getAtomicNumber() + "     Atomic Weight  :" + getAtomicWeight() + "  >>> A metal that does not conduct electricity ");
     }
 }
