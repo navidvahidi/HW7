@@ -1,12 +1,6 @@
 package thirdproject.entity;
 
-enum UniversityMajor {
-    mechanic,
-    engineeringMathematics,
-    computer,
-    Art,
-    LaboratorySciences
-}
+
 
 public class Student extends UniversityEntty {
     private UniversityMajor universitymajor;
