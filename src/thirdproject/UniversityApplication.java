@@ -1,11 +1,7 @@
 package thirdproject;
 
-import thirdproject.entity.Lesson;
-import thirdproject.entity.Professor;
-import thirdproject.entity.Student;
 import thirdproject.entity.*;
 import thirdproject.repository.University;
-
 
 
 public class UniversityApplication {
